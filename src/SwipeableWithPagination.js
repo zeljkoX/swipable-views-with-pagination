@@ -5,7 +5,7 @@ import {
   Dimensions
 } from 'react-native';
 
-import React, { Component } from 'react’;
+import React, { Component } from 'react';
 
 import SwipeableViews from 'react-swipeable-views/lib/index.native.animated';
 
