@@ -12,9 +12,7 @@
     "react-native"
   ],
   "dependencies": {
-    "react": "^0.14.5",
-    "react-native": "^0.24.0-rc3",
-    "react-swipeable-views": "^0.5.0"
+    "react-swipeable-views": ""react-swipeable-views": "^0.6.2"
   },
   "author": "Zeljko Markovic",
   "license": "MIT",
