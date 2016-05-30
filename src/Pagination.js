@@ -1,9 +1,9 @@
-import React, {
-  Component,
+import {
   View,
   Image,
 } from 'react-native';
 
+import React, { Component } from 'react’;
 
 
 export default class Pagination extends Component {
